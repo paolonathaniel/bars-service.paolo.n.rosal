@@ -1,0 +1,1 @@
+ 2javaXShr:src/main/java/com/accenture/bars/domain/RecordToWrite.java
